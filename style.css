@@ -87,6 +87,14 @@ img {
   gap: 20px;
 }
 
+.portfolio-container section div {
+  margin: inherit;
+}
+.portfolio-container section p {
+  font-size: 14px;
+  text-align: center;
+}
+
 /* Footer */
 footer {
   text-align: center;
