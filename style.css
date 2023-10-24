@@ -77,11 +77,13 @@ img {
 .about-container {
 }
 
+/*  css for about container*/
 .about-container section {
   display: flex;
   gap: 20px;
 }
 
+/*  css for portfolio container*/
 .portfolio-container section {
   display: flex;
   gap: 20px;
@@ -91,6 +93,7 @@ img {
   margin: inherit;
 }
 .portfolio-container section p {
+  /* font size 14px for section */
   font-size: 14px;
   text-align: center;
 }
